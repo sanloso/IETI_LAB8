@@ -3,11 +3,6 @@
 ## Credenciales de acceso
 
 ```javascript
-username: santiago
-password: admin
+username: test@mail.com
+password: password
 ```
-
-## Despliegue
-
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://ietaskplanner.herokuapp.com)
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://ietaskplanner.azurewebsites.net)
