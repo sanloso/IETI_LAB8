@@ -3,6 +3,6 @@
 ## Credenciales de acceso
 
 ```javascript
-username: santiago
-password: admin
+username: test@mail.com
+password: password
 ```
